@@ -33,7 +33,8 @@ public class PortableDoor : MonoBehaviour
 
         foreach (Transform child in parent)
         {
-            SetLayerRecursively(child, layer);
+            if (child.gameObject.activeSelf)
+                SetLayerRecursively(child, layer);
         }
     }
     private void OnTriggerExit(Collider other)
