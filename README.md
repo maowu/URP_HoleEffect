@@ -6,21 +6,21 @@ The basic demo how to setup hole effect in Unity URP
 1. Show basic Stencil Window
  **Demo scene** is on "Assets/URP_StencilBufferWindow/CityViewDemo.unity"
 
- <img src="_snapshot/CityViewDemo.gif" height=400 />
+ <img src="_snapshot/CityViewDemo.gif"/>
 
 2. Show infront element and some innerworld with transparent material
  **Demo scene** is on "Assets/URP_StencilBufferWindow/MaskWindowDemo.unity"
 
- <img src="_snapshot/MaskWindowDemo.gif" height=400 />
+ <img src="_snapshot/MaskWindowDemo.gif"/>
 
 3. Object cross the portal
  **Demo scene** is on "Assets/URP_StencilBufferWindow/DinasourDemo.unity"
- <img src="_snapshot/DinasourDemo.gif" height=400 />
+ <img src="_snapshot/DinasourDemo.gif"/>
 
 4. User enter the portal to switch display object's layer
  **Demo scene** is on "Assets/URP_StencilBufferWindow/CityViewDemo_enterPortal.unity"
 
- <img src="_snapshot/CityViewDemo_enterPortal" height=400 />
+ <img src="_snapshot/CityViewDemo_enterPortal.gif"/>
 
 # Notic
  1. Please check "URP_Setting/URP_Renderer.asset" & "URP_Setting/Portal_Renderer" for how to setup the render features
