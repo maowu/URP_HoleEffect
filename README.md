@@ -17,6 +17,8 @@ The basic demo how to setup hole effect in Unity URP
  **Demo scene** is on "Assets/URP_StencilBufferWindow/DinasourDemo.unity"
  <img src="_snapshot/DinasourDemo.gif"/>
 
+ Inspried by [ar portal arfoundation urp](https://github.com/Tongzhou-Yu/ar-portal-arfoundation-urp) sample
+
 4. User enter the portal to switch display object's layer
  **Demo scene** is on "Assets/URP_StencilBufferWindow/CityViewDemo_enterPortal.unity"
 
