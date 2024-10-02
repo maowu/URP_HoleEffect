@@ -24,7 +24,7 @@ The basic demo how to setup hole effect in Unity URP
 
 # Notic
  1. Please check "URP_Setting/URP_Renderer.asset" & "URP_Setting/Portal_Renderer" for how to setup the render features
- 2. You need to add "Mask" & "SeeThrough" layer in your project
+ 2. You need to add "Mask"(7) & "InnerWorld"(6) layer in your project
  3. You need to add "Portal" tag for detecting trigger enter portal
 
 
