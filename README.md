@@ -7,19 +7,19 @@ The basic demo how to setup hole effect in Unity URP
 
  **Demo scene** is on "Assets/URP_StencilBufferWindow/CityViewDemo.unity".
 
- <img src="_snapshot/CityViewDemo.gif"/>
+ <img src="_snapshot/CityViewDemo.gif" width=350 />
 
 2. Show infront element and some innerworld with transparent material
 
  **Demo scene** is on "Assets/URP_StencilBufferWindow/MaskWindowDemo.unity".
 
- <img src="_snapshot/MaskWindowDemo.gif"/>
+ <img src="_snapshot/MaskWindowDemo.gif" width=350 />
 
 3. Object cross the portal
 
  **Demo scene** is on "Assets/URP_StencilBufferWindow/DinasourDemo.unity".
 
- <img src="_snapshot/DinasourDemo.gif"/>
+ <img src="_snapshot/DinasourDemo.gif" width=350 />
 
  Inspried by [ar portal arfoundation urp](https://github.com/Tongzhou-Yu/ar-portal-arfoundation-urp) sample
 
@@ -27,7 +27,7 @@ The basic demo how to setup hole effect in Unity URP
 
  **Demo scene** is on "Assets/URP_StencilBufferWindow/CityViewDemo_enterPortal.unity".
 
- <img src="_snapshot/CityViewDemo_enterPortal.gif"/>
+ <img src="_snapshot/CityViewDemo_enterPortal.gif" width=350 />
 
 # Notic
  1. Please check "URP_Setting/URP_Renderer.asset" & "URP_Setting/Portal_Renderer" for how to setup the render features
